@@ -24,5 +24,6 @@ leetcode/
 | 1 | Stack əməliyyatları | - | Stack | `data_structures/stack.py` |
 | 2 | Sıralama | - | Bubble Sort | `algorithms/sorting/bubble_sort.py` |
 | 3 | Axtarış | - | Binary Search | `algorithms/searching/binary_search.py` |
+| 4 | Sort Colors | Medium | Dutch National Flag | leetcode/medium/sort_colors.py 
 
 *Yeni məsələ həll etdikcə bu cədvələ yeni sətir əlavə et.*
