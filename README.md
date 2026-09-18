@@ -25,3 +25,4 @@ leetcode/
 | 2 | Sıralama | - | Bubble Sort | `algorithms/sorting/bubble_sort.py` |
 | 3 | Axtarış | - | Binary Search | `algorithms/searching/binary_search.py` |
 | 4 | Sort Colors | Medium | Dutch National Flag | leetcode/medium/sort_colors.py 
+| 5 | Longest Substring Without Repeating Characters | Medium | Sliding Window | leetcode/medium/longest_substring_without_repeating.py |
