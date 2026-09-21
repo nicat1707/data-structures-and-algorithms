@@ -29,3 +29,4 @@ leetcode/
 | 6 | Largest Number | Medium | Custom Sort (Comparator) | leetcode/medium/largest_number.py |
 | 7 | Maximum Number of Vowels in a Substring of Given Length | Medium | Sliding Window | leetcode/medium/max_vowels_in_substring.py |
 | 8 | Missing Number | Easy | Gauss düsturu (cəmlərin fərqi) | leetcode/easy/missing_number.py |
+| 9 | Palindrome Number | Easy | String tərsinə çevirmə | leetcode/easy/palindrome_number.py |
