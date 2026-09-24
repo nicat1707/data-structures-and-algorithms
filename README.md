@@ -32,3 +32,4 @@ leetcode/
 | 9 | Palindrome Number | Easy | String tərsinə çevirmə | leetcode/easy/palindrome_number.py |
 | 10 | Best Time to Buy and Sell Stock | Easy | Bir keçidlə minimumu izləmə | leetcode/easy/best_time_to_buy_and_sell_stock.py |
 | 11 | Maximum Average Subarray I | Easy | Sliding Window | leetcode/easy/maximum_average_subarray.py |
+| 12 | Elimination Game | Medium | Sərhəd izləmə (head/step) | leetcode/medium/elimination_game.py |
