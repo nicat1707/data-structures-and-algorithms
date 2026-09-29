@@ -35,3 +35,4 @@ leetcode/
 | 12 | Elimination Game | Medium | Sərhəd izləmə (head/step) | leetcode/medium/elimination_game.py |
 | 13 | Number of Students Unable to Eat Lunch | Easy | Sayğaclarla simulyasiya | leetcode/easy/number_of_students_unable_to_eat_lunch.py |
 | 14 | Move Zeroes | Easy | İki Göstərici (Two Pointers) | leetcode/easy/move_zeroes.py |
+| 15 | Permutations | Medium | Backtracking | leetcode/medium/permutations.py |
